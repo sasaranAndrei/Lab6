@@ -13,6 +13,7 @@ public class Gindac extends Insecta {
     public static void main(String[] args) {
         System.out.println("Gindac constructor");
         Gindac b = new Gindac();
+        System.out.println();
     }
 }
 
