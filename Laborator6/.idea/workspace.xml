@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0cca768-2cec-4840-808a-0ffc0269eb3c" name="Default Changelist" comment="" />
+    <list default="true" id="d0cca768-2cec-4840-808a-0ffc0269eb3c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/package_insecte/Gindac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package_insecte/Insecta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laborator6/META-INF/Laborator6.kotlin_module" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +20,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Supm0TKaEObNnYXtWs5LbZQU3w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -34,7 +48,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestGhiozdan">
+  <component name="RunManager" selected="Application.Gindac">
+    <configuration name="Gindac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="package_insecte.Gindac" />
+      <module name="Laborator6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="package_insecte.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="package_ghiozdan.Main" />
       <module name="Laborator6" />
@@ -63,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Gindac" />
         <item itemvalue="Application.TestGhiozdan" />
         <item itemvalue="Application.Main" />
       </list>
@@ -80,5 +108,18 @@
       <updated>1572423489085</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
